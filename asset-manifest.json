@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/lempel-ziv/static/js/main.dc4b9c06.chunk.js",
-    "main.js.map": "/lempel-ziv/static/js/main.dc4b9c06.chunk.js.map",
+    "main.js": "/lempel-ziv/static/js/main.1e1bb9e1.chunk.js",
+    "main.js.map": "/lempel-ziv/static/js/main.1e1bb9e1.chunk.js.map",
     "runtime-main.js": "/lempel-ziv/static/js/runtime-main.8561b482.js",
     "runtime-main.js.map": "/lempel-ziv/static/js/runtime-main.8561b482.js.map",
     "static/css/2.081f420c.chunk.css": "/lempel-ziv/static/css/2.081f420c.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8561b482.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.e5d69bb5.chunk.js",
-    "static/js/main.dc4b9c06.chunk.js"
+    "static/js/main.1e1bb9e1.chunk.js"
   ]
 }
