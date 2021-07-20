@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/lempel-ziv/static/js/main.4028e2e3.chunk.js",
-    "main.js.map": "/lempel-ziv/static/js/main.4028e2e3.chunk.js.map",
-    "runtime-main.js": "/lempel-ziv/static/js/runtime-main.8561b482.js",
-    "runtime-main.js.map": "/lempel-ziv/static/js/runtime-main.8561b482.js.map",
+    "main.js": "/lempel-ziv/static/js/main.c6cdd259.chunk.js",
+    "main.js.map": "/lempel-ziv/static/js/main.c6cdd259.chunk.js.map",
+    "runtime-main.js": "/lempel-ziv/static/js/runtime-main.05f0e290.js",
+    "runtime-main.js.map": "/lempel-ziv/static/js/runtime-main.05f0e290.js.map",
     "static/css/2.081f420c.chunk.css": "/lempel-ziv/static/css/2.081f420c.chunk.css",
-    "static/js/2.db6b1681.chunk.js": "/lempel-ziv/static/js/2.db6b1681.chunk.js",
-    "static/js/2.db6b1681.chunk.js.map": "/lempel-ziv/static/js/2.db6b1681.chunk.js.map",
-    "static/js/3.c021aae3.chunk.js": "/lempel-ziv/static/js/3.c021aae3.chunk.js",
-    "static/js/3.c021aae3.chunk.js.map": "/lempel-ziv/static/js/3.c021aae3.chunk.js.map",
+    "static/js/2.d23c926e.chunk.js": "/lempel-ziv/static/js/2.d23c926e.chunk.js",
+    "static/js/2.d23c926e.chunk.js.map": "/lempel-ziv/static/js/2.d23c926e.chunk.js.map",
+    "static/js/3.e32f9386.chunk.js": "/lempel-ziv/static/js/3.e32f9386.chunk.js",
+    "static/js/3.e32f9386.chunk.js.map": "/lempel-ziv/static/js/3.e32f9386.chunk.js.map",
     "index.html": "/lempel-ziv/index.html",
     "static/css/2.081f420c.chunk.css.map": "/lempel-ziv/static/css/2.081f420c.chunk.css.map",
-    "static/js/2.db6b1681.chunk.js.LICENSE.txt": "/lempel-ziv/static/js/2.db6b1681.chunk.js.LICENSE.txt"
+    "static/js/2.d23c926e.chunk.js.LICENSE.txt": "/lempel-ziv/static/js/2.d23c926e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8561b482.js",
+    "static/js/runtime-main.05f0e290.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.db6b1681.chunk.js",
-    "static/js/main.4028e2e3.chunk.js"
+    "static/js/2.d23c926e.chunk.js",
+    "static/js/main.c6cdd259.chunk.js"
   ]
 }
